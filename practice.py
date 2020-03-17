@@ -11,7 +11,6 @@ sample
 """
 
 
-
 #조건문
 if not 1>2:
     print("Hello")
